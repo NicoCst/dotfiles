@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = castellinicolas11199@gmail.com
+	name = Nicolas Castelli
